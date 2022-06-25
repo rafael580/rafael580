@@ -31,3 +31,10 @@
   <a href = "mailto:rafael.roco.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-roco-0b7bb113b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+  
+  <h1 align="center">📈 My Github Stats</h1>
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael580&theme=gotham" alt="rafael" />
+</p>
+  
