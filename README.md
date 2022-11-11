@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on SpringBoot/Java 11
-- 🌱 I’m currently learning React/TypeScript
+- 🌱 I’m currently learning Angular/TypeScript
 - 👯 I’m looking to collaborate on E-Commerce
 - 💬 Ask me about JAVA/JAVASCRIPT
 - 📫 How to reach me: rafael.roco.dev@gmail.com
